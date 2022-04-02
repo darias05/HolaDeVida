@@ -121,3 +121,9 @@ a:link {
 .experience {
     text-align: center;
 }
+
+.image__experence {
+    width: 50%;
+    height: 50%;
+    image-rendering: auto;
+}
