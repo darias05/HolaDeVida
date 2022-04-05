@@ -7,3 +7,13 @@
 
 ## Nuestra pagina
 > Si quieres ver el demo de nuestra pagina, puedes visitar 
+[Curriculo Dylan Arias](https://darias05.github.io/curriculum_viate/)
+
+## Como clonar
+> Para clonar el proyecto brindamos las siguientes 3 opciones.
+ * **HTTPS:** https://github.com/darias05/Curriculum_Viate.git
+ * **SSH:** git@github.com:darias05/Curriculum_Viate.git
+ * **GitHub CLI:** gh repo clone darias05/Curriculum_Viate
+
+ ## Avance
+> Esta imagen nos permite previsualizar una vista previa de la imagen
