@@ -17,3 +17,4 @@
 
  ## Avance
 > Esta imagen nos permite previsualizar una vista previa de la imagen
+![foto de cabecera](./sources/Pagina.jpeg)
